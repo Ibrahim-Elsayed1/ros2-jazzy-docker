@@ -1,0 +1,7 @@
+cat << 'EOF' > .gitignore
+.env
+.zsh_data/
+ros2-ws/build/
+ros2-ws/install/
+ros2-ws/log/
+EOF
