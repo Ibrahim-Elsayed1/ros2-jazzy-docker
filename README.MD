@@ -35,7 +35,6 @@ ros2-jazzy-docker/
 ├── docker-compose.yml  # Container, GPU, X11, and shared-memory configuration
 ├── start.sh            # One-command setup, permissions sync, X11 access & container launch
 ├── .gitignore          # Excludes local .env, .zsh_data/, and build/install/log folders
-├── .dockerignore       # Keeps local build context lightweight
 └── README.md           # Documentation
 ```
 
